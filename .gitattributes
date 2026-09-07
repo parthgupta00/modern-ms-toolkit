@@ -1,0 +1,10 @@
+# Project-specific overrides
+src/** linguist-detectable
+public/*.html linguist-vendored
+node_modules/* linguist-vendored
+*.woff binary
+
+*.jpg binary
+*.bat text eol=crlf
+package-lock.json linguist-generated
+# eof 49669b88
