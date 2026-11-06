@@ -1,0 +1,8 @@
+coverage/
+yarn-error.log*
+build/
+.DS_Store
+*.log
+.env.local
+.pnpm-store/
+*.tgz
